@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./montserrat/montserrat-v26-cyrillic_latin-regular.woff2') format('woff2'),
+       url('./montserrat/montserrat-v26-cyrillic_latin-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./montserrat/montserrat-v26-cyrillic_latin-500.woff2') format('woff2'),
+       url('./montserrat/montserrat-v26-cyrillic_latin-500.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./montserrat/montserrat-v26-cyrillic_latin-700.woff2') format('woff2'),
+       url('./montserrat/montserrat-v26-cyrillic_latin-700.woff') format('woff');
+}
